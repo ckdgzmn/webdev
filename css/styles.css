@@ -90,6 +90,11 @@ p {
     line-height: 1.5;
 }
 
+.contact {
+    background-color: #f6f5f1;
+    padding: 50px 0;
+}
+
 .contact-msg {
     width: 40%;
     margin: 40px auto 60px;
